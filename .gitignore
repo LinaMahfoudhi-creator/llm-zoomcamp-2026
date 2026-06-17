@@ -4,3 +4,5 @@ faq.db*
 *.db-shm
 *.db-wal
 __pycache__
+02-vector-search/*.db*
+*/__pycache__/*
